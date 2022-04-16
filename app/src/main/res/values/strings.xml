@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Api Test</string>
+
+
+    <string name="customers">Customers</string>
+    <string name="full_name">Name</string>
+    <string name="email">Email</string>
+</resources>
